@@ -71,9 +71,9 @@ chevCar.style = 'font-weight: bold;';
 
 //setAtribute method
 /*
-makes background color blue and green for speed
+makes padding different
 */
-pontSpeed.setAttribute('style','background-color: lightBlue;');
-chevSpeed.setAttribute('style','background-color: lightGreen;');
+pontSpeed.setAttribute('style','padding: 0px 10px 0px 10px;');
+chevSpeed.setAttribute('style','padding: 0px 10px 0px 10px;');
 
 
